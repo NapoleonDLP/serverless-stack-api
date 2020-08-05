@@ -111,6 +111,18 @@ functions:
           cors: true
           authorizer: aws_iam
 
+  saveRecipe:
+    # Defines an HTTP API endpoint that calls the main function in putRecipe
+    # - path: url path is /save_recipe
+    # - method: POST request
+    handler: saveRecipe.main
+    events:
+      - http:
+          path: /save_recipe/{id}
+          method: post
+          cors: true
+          authorizer: aws_iam
+
 resources:
   # API Gateway Errors
   - ${file(resources/api-gateway-errors.yml)}
