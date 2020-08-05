@@ -1,0 +1,8 @@
+{
+  "body": "{\"recipe\": {\"hello world\":[1, 2, 3, 4]},\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
