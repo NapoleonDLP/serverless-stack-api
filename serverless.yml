@@ -118,7 +118,7 @@ functions:
     handler: saveRecipe.main
     events:
       - http:
-          path: /save_recipe/{id}
+          path: /saveRecipe
           method: post
           cors: true
           authorizer: aws_iam

@@ -1,4 +1,4 @@
-// import * as uuid from "uuid";
+import * as uuid from "uuid";
 import handler from "./libs/handler-lib";
 import dynamoDb from "./libs/dynamodb-lib";
 
@@ -15,8 +15,9 @@ export const main = handler(async (event, context) => {
     // - 'attachment': parsed from request body
     // - 'createdAt': current Unix timestamp
     Item: {
+      noteId: uuid.v1(),
       userId: event.requestContext.identity.cognitoIdentityId,
-      recipeId: data.id,
+      recipeId: data.recipe.id,
       recipe: data.recipe,
       savedImage: data.attachment,
       savedNotes: data.notes,
