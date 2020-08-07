@@ -20,6 +20,7 @@ provider:
   environment:
     tableName: notes
     stripeSecretKey: ${env:STRIPE_SECRET_KEY}
+    yelpKey: ${env:YELP_KEY}
 
   # 'iamRoleStatements' defines the permission policy for the Lambda function.
   # In this case Lambda functions are granted with permissions to access DynamoDB.
@@ -119,6 +120,18 @@ functions:
     events:
       - http:
           path: /saveRecipe
+          method: post
+          cors: true
+          authorizer: aws_iam
+
+  restaurants:
+    # Defines an HTTP API endpoint that calls the main function in putRecipe
+    # - path: url path is /save_recipe
+    # - method: POST request
+    handler: restaurants.main
+    events:
+      - http:
+          path: /restaurants
           method: post
           cors: true
           authorizer: aws_iam
