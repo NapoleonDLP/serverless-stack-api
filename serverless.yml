@@ -132,7 +132,7 @@ functions:
     events:
       - http:
           path: /restaurants
-          method: post
+          method: get
           cors: true
           authorizer: aws_iam
 
