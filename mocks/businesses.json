@@ -1,0 +1,823 @@
+{
+  "businesses": [
+      {
+          "id": "6kUeJFDi39I5ZRYVU0ILWw",
+          "alias": "taqueria-jalisco-south-lake-tahoe",
+          "name": "Taqueria Jalisco",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ynWbbaDAy0opyJ5B_jGOZA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/taqueria-jalisco-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 281,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.9412726,
+              "longitude": -119.9784516
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "972 Tallac Ave",
+              "address2": "Ste C",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "972 Tallac Ave",
+                  "Ste C",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305416516",
+          "display_phone": "(530) 541-6516",
+          "distance": 187.11537248952115
+      },
+      {
+          "id": "1IUvUHDjpk0OkqyriKakJQ",
+          "alias": "jalisco-grill-south-lake-tahoe",
+          "name": "Jalisco Grill",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MKf9AdIW8BGgvKDs48sxBg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/jalisco-grill-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 419,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 38.927602,
+              "longitude": -119.982025
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "2660 Lake Tahoe Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2660 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15306001775",
+          "display_phone": "(530) 600-1775",
+          "distance": 1429.9750971718984
+      },
+      {
+          "id": "3ysHeEqsgPPZ2FQbJRNvBg",
+          "alias": "mayas-mexican-grill-south-lake-tahoe-2",
+          "name": "Maya's Mexican Grill",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a1346WmTt-U8ao3n3saQ1w/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/mayas-mexican-grill-south-lake-tahoe-2?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 690,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.956151,
+              "longitude": -119.94445
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4041 Lake Tahoe Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "4041 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305780051",
+          "display_phone": "(530) 578-0051",
+          "distance": 3359.5313672374205
+      },
+      {
+          "id": "Yy2RSJxofs4dPUvIXlpXrw",
+          "alias": "super-taco-south-lake-tahoe",
+          "name": "Super Taco",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xwX_ALZgcClCyHUAXDdV-w/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/super-taco-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 195,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.9589551470266,
+              "longitude": -119.9447085412
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4113 Cedar Ave",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "4113 Cedar Ave",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305430988",
+          "display_phone": "(530) 543-0988",
+          "distance": 3519.1055796038513
+      },
+      {
+          "id": "_J8Xf6qMZxVwtKzqvJsmdQ",
+          "alias": "taqueria-jimenez-south-lake-tahoe",
+          "name": "Taqueria Jimenez",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KWxOL5LcReOYzL9a5527fA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/taqueria-jimenez-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 229,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.957645,
+              "longitude": -119.945831
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "913 Friday Ave",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "913 Friday Ave",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305421006",
+          "display_phone": "(530) 542-1006",
+          "distance": 3363.241866267476
+      },
+      {
+          "id": "QE_Ae0wo6OOI63N3SdSQVw",
+          "alias": "taco-cantina-and-restaurant-lake-tahoe",
+          "name": "TaCo Cantina & Restaurant",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T1qVSePXs7mUXYva7mi7DQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/taco-cantina-and-restaurant-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 57,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "danceclubs",
+                  "title": "Dance Clubs"
+              }
+          ],
+          "rating": 2.5,
+          "coordinates": {
+              "latitude": 38.962411,
+              "longitude": -119.939906
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "Hwy 50 at Stateline Ave",
+              "address2": null,
+              "address3": "",
+              "city": "Lake Tahoe",
+              "zip_code": "89449",
+              "country": "US",
+              "state": "NV",
+              "display_address": [
+                  "Hwy 50 at Stateline Ave",
+                  "Lake Tahoe, NV 89449"
+              ]
+          },
+          "phone": "+17755882411",
+          "display_phone": "(775) 588-2411",
+          "distance": 4082.397330499883
+      },
+      {
+          "id": "SV8bCOZK2t_PAMAuFCEoZw",
+          "alias": "azul-latin-kitchen-south-lake-tahoe-3",
+          "name": "Azul Latin Kitchen",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bfkqt2Q43EYtchq4fccj_Q/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/azul-latin-kitchen-south-lake-tahoe-3?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 1647,
+          "categories": [
+              {
+                  "alias": "latin",
+                  "title": "Latin American"
+              },
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "cocktailbars",
+                  "title": "Cocktail Bars"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.955624,
+              "longitude": -119.943959
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "1001 Heavenly Village Way",
+              "address2": "Ste 4",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1001 Heavenly Village Way",
+                  "Ste 4",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305412985",
+          "display_phone": "(530) 541-2985",
+          "distance": 3364.5917540688956
+      },
+      {
+          "id": "z0IxAcf2_2R2qrUwIOoyEw",
+          "alias": "la-promesa-south-lake-tahoe",
+          "name": "La Promesa",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vYiM_XQURswHhCKehFGqag/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/la-promesa-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 131,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "bakeries",
+                  "title": "Bakeries"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.946705489716,
+              "longitude": -119.965572915396
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "3447 Lake Tahoe Blvd",
+              "address2": "Ste 4",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3447 Lake Tahoe Blvd",
+                  "Ste 4",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305412019",
+          "display_phone": "(530) 541-2019",
+          "distance": 1258.4862628289459
+      },
+      {
+          "id": "iXm96mxxAbjIz0QQy3Ylxw",
+          "alias": "marias-south-lake-tahoe-3",
+          "name": "Maria's",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r6lLcgrn3P5h6E9mZ9Fwpw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/marias-south-lake-tahoe-3?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 43,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 38.923664,
+              "longitude": -119.98784
+          },
+          "transactions": [],
+          "location": {
+              "address1": "2494 Lake Tahoe Blvd",
+              "address2": null,
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2494 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15306002200",
+          "display_phone": "(530) 600-2200",
+          "distance": 2025.9596371324517
+      },
+      {
+          "id": "top8RIvP5uXxC4OK9HehBQ",
+          "alias": "verde-mexican-rotisserie-south-lake-tahoe-2",
+          "name": "Verde Mexican Rotisserie",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zGY7c0iPcldPC0g6EYDAHQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/verde-mexican-rotisserie-south-lake-tahoe-2?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 480,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "salad",
+                  "title": "Salad"
+              },
+              {
+                  "alias": "bars",
+                  "title": "Bars"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 38.91307,
+              "longitude": -120.003612
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "2016 Lake Tahoe Blvd",
+              "address2": "Ste 2016",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2016 Lake Tahoe Blvd",
+                  "Ste 2016",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305730700",
+          "display_phone": "(530) 573-0700",
+          "distance": 3757.726275075585
+      },
+      {
+          "id": "oYim9dgprjZx07S-7SyDig",
+          "alias": "el-sazón-de-mi-tierra-south-lake-tahoe",
+          "name": "El sazón de mi tierra",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bpsIAP4yfcu3G7a9K_E9fg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/el-saz%C3%B3n-de-mi-tierra-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 10,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.944587,
+              "longitude": -119.96942
+          },
+          "transactions": [],
+          "location": {
+              "address1": "3354 Sandy Way",
+              "address2": null,
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3354 Sandy Way",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305780007",
+          "display_phone": "(530) 578-0007",
+          "distance": 855.3123404654757
+      },
+      {
+          "id": "HskVSJTtKLAiRmlM2o5NAg",
+          "alias": "jalapenos-taqueria-south-lake-tahoe",
+          "name": "Jalapeno's Taqueria",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ocEpDNu330gQkH4GO48FXg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/jalapenos-taqueria-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 198,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.9207362147078,
+              "longitude": -120.015456960876
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "675 Emerald Bay Rd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "675 Emerald Bay Rd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305441422",
+          "display_phone": "(530) 544-1422",
+          "distance": 3935.947458100739
+      },
+      {
+          "id": "NgxPpXOCBovyO9LTz-EB5g",
+          "alias": "taco-bell-south-lake-tahoe-2",
+          "name": "Taco Bell",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YldtCJ0Rm2NouKCvMsU2SQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/taco-bell-south-lake-tahoe-2?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 36,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "hotdogs",
+                  "title": "Fast Food"
+              }
+          ],
+          "rating": 3.0,
+          "coordinates": {
+              "latitude": 38.927432,
+              "longitude": -119.983211
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "2681 Lake Tahoe Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2681 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305440409",
+          "display_phone": "(530) 544-0409",
+          "distance": 1480.6628238835913
+      },
+      {
+          "id": "5zilAAG9INj30-m9nhKywQ",
+          "alias": "los-mexicanos-south-lake-tahoe",
+          "name": "Los Mexicanos",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_qfgKnsr-IVOEFqQ29WYKA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/los-mexicanos-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 179,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 38.9471353590488,
+              "longitude": -119.960705861449
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1000 Herbert Ave",
+              "address2": "Ste 4",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1000 Herbert Ave",
+                  "Ste 4",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305414608",
+          "display_phone": "(530) 541-4608",
+          "distance": 1644.7308499215117
+      },
+      {
+          "id": "uZdfQX20a6DPN0Chl0YYig",
+          "alias": "taco-taqueria-south-lake-tahoe-2",
+          "name": "Taco Taqueria",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_R6zlRB_zzla_WFMqIY0FA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/taco-taqueria-south-lake-tahoe-2?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 115,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 3.0,
+          "coordinates": {
+              "latitude": 38.9528721867855,
+              "longitude": -119.947232435484
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "3920 Lake Tahoe Blvd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3920 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305423449",
+          "display_phone": "(530) 542-3449",
+          "distance": 2965.974083229491
+      },
+      {
+          "id": "B5Plz-x4pGEr2j2KeTcEFA",
+          "alias": "margaritas-mexican-restaurant-south-lake-tahoe",
+          "name": "Margaritas Mexican Restaurant",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jQ38bGbEkq1isdpHlMHS-g/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/margaritas-mexican-restaurant-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 314,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "cocktailbars",
+                  "title": "Cocktail Bars"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.919047,
+              "longitude": -120.011992
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "765 Emerald Bay Rd",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "765 Emerald Bay Rd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305446907",
+          "display_phone": "(530) 544-6907",
+          "distance": 3808.886018234769
+      },
+      {
+          "id": "5B1SxeAkjsw0HPJUsv2Vvw",
+          "alias": "los-mexicanos-restaurant-south-lake-tahoe",
+          "name": "Los Mexicanos Restaurant",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H1s9VQmIFEo3vgYHirTJ3g/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/los-mexicanos-restaurant-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 17,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.9466386902977,
+              "longitude": -119.960883893073
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "3564 D Lake Tahoe Blvd",
+              "address2": "",
+              "address3": null,
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3564 D Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305414608",
+          "display_phone": "(530) 541-4608",
+          "distance": 1597.687992906345
+      },
+      {
+          "id": "loPLdi8Zr1CgS-cPho0Qkw",
+          "alias": "rojos-tavern-south-lake-tahoe",
+          "name": "RoJo's Tavern",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u6DiHzTIHSTQsrVEELO1UQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/rojos-tavern-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 236,
+          "categories": [
+              {
+                  "alias": "bbq",
+                  "title": "Barbeque"
+              },
+              {
+                  "alias": "karaoke",
+                  "title": "Karaoke"
+              },
+              {
+                  "alias": "musicvenues",
+                  "title": "Music Venues"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 38.941078344537,
+              "longitude": -119.97753736884
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "3091 Harrison Ave",
+              "address2": "",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3091 Harrison Ave",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305414960",
+          "display_phone": "(530) 541-4960",
+          "distance": 134.23531081123838
+      },
+      {
+          "id": "Iq7xiQ4onk0qm3o3EY7cqg",
+          "alias": "freshies-restaurant-and-bar-south-lake-tahoe",
+          "name": "Freshies Restaurant & Bar",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VZFB05sDYJ9_lYFIp1ohcQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/freshies-restaurant-and-bar-south-lake-tahoe?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 804,
+          "categories": [
+              {
+                  "alias": "tradamerican",
+                  "title": "American (Traditional)"
+              },
+              {
+                  "alias": "vegan",
+                  "title": "Vegan"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 38.945359,
+              "longitude": -119.97068
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "3330 Lake Tahoe Blvd",
+              "address2": "Ste 3",
+              "address3": "",
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3330 Lake Tahoe Blvd",
+                  "Ste 3",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305423630",
+          "display_phone": "(530) 542-3630",
+          "distance": 828.5073405024004
+      },
+      {
+          "id": "QPWbtlxTpMWn0MdhVC8nsw",
+          "alias": "brothers-burrito-house-south-lake-tahoe-2",
+          "name": "Brothers Burrito House",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YMZezgKmj9b_ffSnF0FSdQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/brothers-burrito-house-south-lake-tahoe-2?adjust_creative=V9UxJlvGdfqBcdDBRzHAIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=V9UxJlvGdfqBcdDBRzHAIQ",
+          "review_count": 267,
+          "categories": [
+              {
+                  "alias": "mexican",
+                  "title": "Mexican"
+              },
+              {
+                  "alias": "breakfast_brunch",
+                  "title": "Breakfast & Brunch"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 38.916097196282,
+              "longitude": -119.999499320984
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "2136 Lake Tahoe Blvd",
+              "address2": "",
+              "address3": null,
+              "city": "South Lake Tahoe",
+              "zip_code": "96150",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2136 Lake Tahoe Blvd",
+                  "South Lake Tahoe, CA 96150"
+              ]
+          },
+          "phone": "+15305443263",
+          "display_phone": "(530) 544-3263",
+          "distance": 3275.0738151463956
+      }
+  ],
+  "total": 89,
+  "region": {
+      "center": {
+          "longitude": -119.9772,
+          "latitude": 38.9399
+      }
+  }
+}
